@@ -1,0 +1,8 @@
+requests
+pika
+PyYAML
+pandas
+scikit-learn
+pytest
+snowflake-connector-python
+python-dotenv
